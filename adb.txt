@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-07-01 10:01:07
-! 规则数量: 57310
+! Last modified: 2025-07-01 19:21:48
+! 规则数量: 57315
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -970,6 +970,7 @@
 ||64.adsco.re^
 ||66926e18fb422e99217bead821bfa976.groupsorlink.com^
 ||6744373190.rtb.monetixads.com^
+||6856351990.rtb.monetixads.com^
 ||69vip.pro^
 ||6gtest.bj2cu.u3.ucweb.com^
 ||6gvef.pro^
@@ -2269,7 +2270,6 @@
 ||ad.rtl.hr^
 ||ad.ru.doubleclick.net^
 ||ad.samsungadhub.com^
-||ad.sbb.bg^
 ||ad.scadnet.com^
 ||ad.se.doubleclick.net^
 ||ad.seagulltracer.com^
@@ -3173,6 +3173,7 @@
 ||ads-dev.ad4game.com^
 ||ads-dev.pinterest.com^
 ||ads-dev.sportradar.com^
+||ads-dmp-collect.kr.karrotmarket.com^
 ||ads-dpgmediabe.adhese.com^
 ||ads-drcn.platform.dbankcloud.cn^
 ||ads-drcn.platform.dbankcloud.com^
@@ -4988,6 +4989,7 @@
 ||ads101.unoadsrv.com^
 ||ads101.vertamedia.com^
 ||ads102.adtelligent.com^
+||ads102.bidmatic.io^
 ||ads103.unoadsrv.com^
 ||ads103.vertamedia.com^
 ||ads104.unoadsrv.com^
@@ -9129,6 +9131,7 @@
 ||api.richlifeads.ru^
 ||api.ril.com^
 ||api.ringlead.com^
+||api.rjmetrics.com^
 ||api.rlcdn.com^
 ||api.rnet.plus^
 ||api.rollbar.com^
@@ -29855,6 +29858,7 @@
 ||sdk-api-fra.maticooads.com^
 ||sdk-api-linode1.maticooads.com^
 ||sdk-api-us.maticooads.com^
+||sdk-api-usa.maticooads.com^
 ||sdk-api-v1.singular.net^
 ||sdk-api.justtrack.io^
 ||sdk-api.maticooads.com^
@@ -34330,6 +34334,7 @@
 ||ts-demo.audio.advertising.a2z.com^
 ||ts.amazon-adsystem.com^
 ||tsdflsdk.cypcb.net^
+||tsm-951790kfyo.adsbynimbus.com^
 ||tsm-nj1015.adsbynimbus.com^
 ||tt.agrantsem.com^
 ||tt.toponad.com^

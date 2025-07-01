@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-07-01 10:01:07
-# 规则数量: 57310
+# 更新日期: 2025-07-01 19:21:48
+# 规则数量: 57315
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -440,6 +440,7 @@ Domain, 631.dlads.cn
 Domain, 64.adsco.re
 Domain, 66926e18fb422e99217bead821bfa976.groupsorlink.com
 Domain, 6744373190.rtb.monetixads.com
+Domain, 6856351990.rtb.monetixads.com
 Domain, 69vip.pro
 Domain, 6gtest.bj2cu.u3.ucweb.com
 Domain, 6gvef.pro
@@ -1739,7 +1740,6 @@ Domain, ad.rs.doubleclick.net
 Domain, ad.rtl.hr
 Domain, ad.ru.doubleclick.net
 Domain, ad.samsungadhub.com
-Domain, ad.sbb.bg
 Domain, ad.scadnet.com
 Domain, ad.se.doubleclick.net
 Domain, ad.seagulltracer.com
@@ -2643,6 +2643,7 @@ Domain, ads-delivery.gunosy.com
 Domain, ads-dev.ad4game.com
 Domain, ads-dev.pinterest.com
 Domain, ads-dev.sportradar.com
+Domain, ads-dmp-collect.kr.karrotmarket.com
 Domain, ads-dpgmediabe.adhese.com
 Domain, ads-drcn.platform.dbankcloud.cn
 Domain, ads-drcn.platform.dbankcloud.com
@@ -4458,6 +4459,7 @@ Domain, ads101.bidmatic.io
 Domain, ads101.unoadsrv.com
 Domain, ads101.vertamedia.com
 Domain, ads102.adtelligent.com
+Domain, ads102.bidmatic.io
 Domain, ads103.unoadsrv.com
 Domain, ads103.vertamedia.com
 Domain, ads104.unoadsrv.com
@@ -8599,6 +8601,7 @@ Domain, api.revenuads.com
 Domain, api.richlifeads.ru
 Domain, api.ril.com
 Domain, api.ringlead.com
+Domain, api.rjmetrics.com
 Domain, api.rlcdn.com
 Domain, api.rnet.plus
 Domain, api.rollbar.com
@@ -29325,6 +29328,7 @@ Domain, sdk-android.ad.smaato.net
 Domain, sdk-api-fra.maticooads.com
 Domain, sdk-api-linode1.maticooads.com
 Domain, sdk-api-us.maticooads.com
+Domain, sdk-api-usa.maticooads.com
 Domain, sdk-api-v1.singular.net
 Domain, sdk-api.justtrack.io
 Domain, sdk-api.maticooads.com
@@ -33800,6 +33804,7 @@ Domain, trx.adscale.de
 Domain, ts-demo.audio.advertising.a2z.com
 Domain, ts.amazon-adsystem.com
 Domain, tsdflsdk.cypcb.net
+Domain, tsm-951790kfyo.adsbynimbus.com
 Domain, tsm-nj1015.adsbynimbus.com
 Domain, tt.agrantsem.com
 Domain, tt.toponad.com
