@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-07-02 09:50:02
-! 规则数量: 57315
+! Last modified: 2025-07-02 22:22:07
+! 规则数量: 57322
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -2536,7 +2536,6 @@
 ||ad1digital.checkm8.com^
 ||ad1game.ru^
 ||ad1ular.pics^
-||ad1x7.mea5ms.com^
 ||ad2.360yield.com^
 ||ad2.ad-srv.net^
 ||ad2.adecn.com^
@@ -4642,6 +4641,7 @@
 ||ads.tarrobads.com^
 ||ads.tbs.com^
 ||ads.tcsemotion.com^
+||ads.teads.tv^
 ||ads.technoratimedia.com^
 ||ads.techvibes.com^
 ||ads.techweb.com^
@@ -5678,6 +5678,7 @@
 ||adserver-espnet.sportszone.net^
 ||adserver-eu.adtech.advertising.com^
 ||adserver-images.adikteev.com^
+||adserver-prod.tronads.io^
 ||adserver-toy.adtechjp.com^
 ||adserver-us.adtech.advertising.com^
 ||adserver-voice-online.co.uk^
@@ -6685,6 +6686,7 @@
 ||advancedworld.site^
 ||advanceinvader.com^
 ||advancelocal.blueconic.net^
+||advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com^
 ||advancelocalmediallc-mlivecom.adsbynimbus.com^
 ||advancelocalmediallc-njcom.adsbynimbus.com^
 ||advancelocalmediallc-oregonlivecom.adsbynimbus.com^
@@ -8612,6 +8614,7 @@
 ||api.ca.looker.com^
 ||api.cactusglobal.io^
 ||api.callget.cn^
+||api.callrail.com^
 ||api.calltrackingmetrics.com^
 ||api.campaigns.notino.com^
 ||api.caroda.io^
@@ -12250,6 +12253,7 @@
 ||cf.insurads.com^
 ||cf.xad.com^
 ||cf04.kanade-ad.net^
+||cfapi.upstackdata.io^
 ||cfd.analytics-iceberg.ltd^
 ||cfd.blackrockadvisorsltd.bcpl9m7tbz955en94bnn.com^
 ||cfd.blackrockadvisorsltd.com^
@@ -16875,6 +16879,7 @@
 ||fclog.baidu.com^
 ||fcs23-1.naiadsystems.com^
 ||fcvutavuonar.pro^
+||fcwx3i.skadsdkless.appsflyersdk.com^
 ||fdads.sv.publicus.com^
 ||fds.api.moji.com^
 ||fe.ono.axp.amazon-adsystem.com^
@@ -22995,6 +23000,7 @@
 ||mfadsrvr.com^
 ||mg.adskeeper.co.uk^
 ||mg.games.sina.com.cn^
+||mi-sentry.broadviewindustries.com^
 ||mi-songs.com^
 ||mi.5.p2l.info^
 ||mi.adinterax.com^
@@ -26250,6 +26256,7 @@
 ||post.xapads.com^
 ||post1.voiceads.cn^
 ||postback.adsmoloco.com^
+||postback.hilltopads.com^
 ||postesfrig.pro^
 ||postfproge.pro^
 ||postibalon.pro^

@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-07-02 09:50:02
-# 规则数量: 57315
+# 更新日期: 2025-07-02 22:22:07
+# 规则数量: 57322
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -2006,7 +2006,6 @@ Domain, ad19digital.checkm8.com
 Domain, ad1digital.checkm8.com
 Domain, ad1game.ru
 Domain, ad1ular.pics
-Domain, ad1x7.mea5ms.com
 Domain, ad2.360yield.com
 Domain, ad2.ad-srv.net
 Domain, ad2.adecn.com
@@ -4112,6 +4111,7 @@ Domain, ads.tapnative.com
 Domain, ads.tarrobads.com
 Domain, ads.tbs.com
 Domain, ads.tcsemotion.com
+Domain, ads.teads.tv
 Domain, ads.technoratimedia.com
 Domain, ads.techvibes.com
 Domain, ads.techweb.com
@@ -5148,6 +5148,7 @@ Domain, adserver-east.extend.tv
 Domain, adserver-espnet.sportszone.net
 Domain, adserver-eu.adtech.advertising.com
 Domain, adserver-images.adikteev.com
+Domain, adserver-prod.tronads.io
 Domain, adserver-toy.adtechjp.com
 Domain, adserver-us.adtech.advertising.com
 Domain, adserver-voice-online.co.uk
@@ -6155,6 +6156,7 @@ Domain, advancedtrustedbusinessesimmediate.top
 Domain, advancedworld.site
 Domain, advanceinvader.com
 Domain, advancelocal.blueconic.net
+Domain, advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com
 Domain, advancelocalmediallc-mlivecom.adsbynimbus.com
 Domain, advancelocalmediallc-njcom.adsbynimbus.com
 Domain, advancelocalmediallc-oregonlivecom.adsbynimbus.com
@@ -8082,6 +8084,7 @@ Domain, api.c.avazunativeads.com
 Domain, api.ca.looker.com
 Domain, api.cactusglobal.io
 Domain, api.callget.cn
+Domain, api.callrail.com
 Domain, api.calltrackingmetrics.com
 Domain, api.campaigns.notino.com
 Domain, api.caroda.io
@@ -11720,6 +11723,7 @@ Domain, cf.iadsdk.apple.com
 Domain, cf.insurads.com
 Domain, cf.xad.com
 Domain, cf04.kanade-ad.net
+Domain, cfapi.upstackdata.io
 Domain, cfd.analytics-iceberg.ltd
 Domain, cfd.blackrockadvisorsltd.bcpl9m7tbz955en94bnn.com
 Domain, cfd.blackrockadvisorsltd.com
@@ -16345,6 +16349,7 @@ Domain, fclick.baidu.com
 Domain, fclog.baidu.com
 Domain, fcs23-1.naiadsystems.com
 Domain, fcvutavuonar.pro
+Domain, fcwx3i.skadsdkless.appsflyersdk.com
 Domain, fdads.sv.publicus.com
 Domain, fds.api.moji.com
 Domain, fe.ono.axp.amazon-adsystem.com
@@ -22465,6 +22470,7 @@ Domain, mezoimpon.pro
 Domain, mfadsrvr.com
 Domain, mg.adskeeper.co.uk
 Domain, mg.games.sina.com.cn
+Domain, mi-sentry.broadviewindustries.com
 Domain, mi-songs.com
 Domain, mi.5.p2l.info
 Domain, mi.adinterax.com
@@ -25720,6 +25726,7 @@ Domain, post.update.fbsbx.com
 Domain, post.xapads.com
 Domain, post1.voiceads.cn
 Domain, postback.adsmoloco.com
+Domain, postback.hilltopads.com
 Domain, postesfrig.pro
 Domain, postfproge.pro
 Domain, postibalon.pro
