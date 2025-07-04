@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-07-04 09:50:34
-# 规则数量: 58318
+# 更新日期: 2025-07-04 22:21:16
+# 规则数量: 58338
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -1104,6 +1104,7 @@ Domain, ad-server.gulasidorna.se
 Domain, ad-server.proboards.com
 Domain, ad-server.unlimapps.com
 Domain, ad-serverparc.nl
+Domain, ad-serving.d-o-ads.com
 Domain, ad-serving.de
 Domain, ad-sfo.pubmatic.com
 Domain, ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -2772,6 +2773,7 @@ Domain, ads-tr.bigmining.com
 Domain, ads-trk.vidible.tv
 Domain, ads-twitter.com
 Domain, ads-uk.jiwire.com
+Domain, ads-unibet.adhese.com
 Domain, ads-us.amillionads.com
 Domain, ads-us.loopaautomate.com
 Domain, ads-us.pictela.net
@@ -4513,6 +4515,7 @@ Domain, ads12.unoadsrv.com
 Domain, ads12.vertamedia.com
 Domain, ads120.adtelligent.com
 Domain, ads121.adtelligent.com
+Domain, ads124.adtelligent.com
 Domain, ads13-normal-hl.zijieapi.com
 Domain, ads13-normal-lf.zijieapi.com
 Domain, ads13-normal-lq.zijieapi.com
@@ -6126,6 +6129,7 @@ Domain, adv1.clickadu.net
 Domain, adv2.expres.ua
 Domain, adv2.rcspubblicita.it
 Domain, adv3.clickadu.net
+Domain, adv6.grupopreferente.com
 Domain, advack.net
 Domain, advaction.ru
 Domain, advally-baseballamerica-tagan.adlightning.com
@@ -6396,7 +6400,6 @@ Domain, adverty.com
 Domain, adverum.lt
 Domain, advg.agency
 Domain, advgalaxy.com
-Domain, advgame.org
 Domain, adviad.com
 Domain, adviap.goforandroid.com
 Domain, advice-ads-cdn.vice.com
@@ -8122,6 +8125,7 @@ Domain, api.callrail.com
 Domain, api.calltrackingmetrics.com
 Domain, api.campaigns.notino.com
 Domain, api.caroda.io
+Domain, api.cartbooster.io
 Domain, api.cartsee.cartx.cloud
 Domain, api.cashback.co.uk
 Domain, api.cazamba.com
@@ -8331,6 +8335,7 @@ Domain, api.imdb.us-east-1.prod.paets.advertising.amazon.dev
 Domain, api.img-static.tech
 Domain, api.immomo.com
 Domain, api.impactradius.com
+Domain, api.impressions.vupulse.com
 Domain, api.inboxdollars.com
 Domain, api.indexexchange.com
 Domain, api.indicative.com
@@ -8480,6 +8485,7 @@ Domain, api.mu9.club
 Domain, api.mu9.com
 Domain, api.mumuglobal.com
 Domain, api.mutinyhq.io
+Domain, api.mw-ads.com
 Domain, api.mxvietnam.com
 Domain, api.myads.telkomsel.com
 Domain, api.myadsget.com
@@ -13650,6 +13656,7 @@ Domain, cybercrow.pro
 Domain, cyberprotection.pro
 Domain, cyberquoll.pro
 Domain, cyberserval.pro
+Domain, cybertronads.com
 Domain, cyberweasel.pro
 Domain, cyborricon.pro
 Domain, cycadprove.pro
@@ -15601,6 +15608,7 @@ Domain, ecodazzle.pro
 Domain, ecollector-advancelocal.sophi.io
 Domain, ecom-app.rakutenadvertising.io
 Domain, ecomadserver.com
+Domain, ecommerce-events.adscale.com
 Domain, economicara.pro
 Domain, econosopru.pro
 Domain, ecoutrimpr.pro
@@ -19460,6 +19468,7 @@ Domain, img.ak.impact-ad.jp
 Domain, img.alimama.cn
 Domain, img.amp.ad.sina.com.cn
 Domain, img.blogads.com
+Domain, img.flipp-ads.com
 Domain, img.jizzads.com
 Domain, img.layer-ads.de
 Domain, img.ll.impact-ad.jp
@@ -19471,6 +19480,7 @@ Domain, img.tronads.io
 Domain, img02.ad-tech.ru
 Domain, img1.360buyimg.com
 Domain, img1.mini.cache.wps.cn
+Domain, img1.tronads.io
 Domain, img2.ad.agrantsem.com
 Domain, img3.ad.agrantsem.com
 Domain, imgad.thepaper.cn
@@ -21122,6 +21132,7 @@ Domain, krummcausa.pro
 Domain, kryptplagi.pro
 Domain, kstj.baidu.com
 Domain, kt88.pro
+Domain, ktk7k-1eakg.ads.tremorhub.com
 Domain, ktokto.mobi
 Domain, ktqtyggmqgug.pro
 Domain, ku11.pro
@@ -25696,6 +25707,7 @@ Domain, pittaascia.pro
 Domain, pittabrule.pro
 Domain, pittadisap.pro
 Domain, pittodisme.pro
+Domain, piwik.advantic.de
 Domain, piwik.ero-advertising.com
 Domain, piwik.unoadsrv.com
 Domain, pix.ahs.prod-na.turntable.sonic.advertising.amazon.dev
@@ -30054,6 +30066,7 @@ Domain, seguiengen.pro
 Domain, seguivolut.pro
 Domain, sehejii1.pro
 Domain, seismfullo.pro
+Domain, sej3y5.skadsdkless.appsflyersdk.com
 Domain, sejs.moatads.com
 Domain, sejujeo9.pro
 Domain, seks-partner.com
@@ -31952,6 +31965,7 @@ Domain, static-interactive-api.nend.net
 Domain, static-ssl.mediav.com
 Domain, static.4chan-ads.org
 Domain, static.a-ads.com
+Domain, static.ad-adserver.com
 Domain, static.ad-lancers.jp
 Domain, static.ad-maven.com
 Domain, static.ad-tech.ru
@@ -34214,6 +34228,7 @@ Domain, triforatei.pro
 Domain, trifosuici.pro
 Domain, triggdival.pro
 Domain, trincbever.pro
+Domain, trinidadexpress-tto-ads.sitenm.com
 Domain, trinielixa.pro
 Domain, trinoscier.pro
 Domain, trinuimper.pro
@@ -35197,6 +35212,7 @@ Domain, uuid.adsplay.net
 Domain, uuidapi.yunos.com
 Domain, uusee.adsame.com
 Domain, uvnbrvbmsvtg.pro
+Domain, uw2-n.adv.lijit.com
 Domain, uwxcwa.pro
 Domain, ux13.juicyads.com
 Domain, uxip-res.meizu.com
@@ -35548,6 +35564,7 @@ Domain, vfw-us-west.amazon-adsystem.com
 Domain, vfw-us.amazon-adsystem.com
 Domain, vfw.amazon-adsystem.com
 Domain, vfw.prod.skywave.jetstream.advertising.a2z.com
+Domain, vfwm-us.amazon-adsystem.com
 Domain, vfwm.amazon-adsystem.com
 Domain, vfwm.prod.skywave.jetstream.advertising.a2z.com
 Domain, vfws.amazon-adsystem.com
@@ -36790,6 +36807,7 @@ Domain, wittywildcat.pro
 Domain, wittywombats.pro
 Domain, wittywonderscape.pro
 Domain, wixlabs-adsense-v3.uc.r.appspot.com
+Domain, wjj3n-h193w.ads.tremorhub.com
 Domain, wjj3n-vjpmh.ads.tremorhub.com
 Domain, wjj3n-yx4rt.ads.tremorhub.com
 Domain, wks.ero-advertising.com
@@ -57103,6 +57121,7 @@ Domain, www.vozohai0.pro
 Domain, www.vryndolar.pro
 Domain, www.vsiogladko.pro
 Domain, www.vtqvkf.pro
+Domain, www.vtyfzokadxi.com
 Domain, www.vubogoy6.pro
 Domain, www.vulcarabbo.pro
 Domain, www.vulgasorbe.pro
@@ -57930,6 +57949,7 @@ Domain, www11.smartadserver.com
 Domain, www13.smartadserver.com
 Domain, www14.smartadserver.com
 Domain, www15.smartadserver.com
+Domain, www17.smartadserver.com
 Domain, www18.smartadserver.com
 Domain, www2.ad-server.online
 Domain, www2.adserverpub.com

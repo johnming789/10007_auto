@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-07-04 09:50:34
-! 规则数量: 58318
+! Last modified: 2025-07-04 22:21:16
+! 规则数量: 58338
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -1634,6 +1634,7 @@
 ||ad-server.proboards.com^
 ||ad-server.unlimapps.com^
 ||ad-serverparc.nl^
+||ad-serving.d-o-ads.com^
 ||ad-serving.de^
 ||ad-sfo.pubmatic.com^
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
@@ -3302,6 +3303,7 @@
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
 ||ads-uk.jiwire.com^
+||ads-unibet.adhese.com^
 ||ads-us.amillionads.com^
 ||ads-us.loopaautomate.com^
 ||ads-us.pictela.net^
@@ -5043,6 +5045,7 @@
 ||ads12.vertamedia.com^
 ||ads120.adtelligent.com^
 ||ads121.adtelligent.com^
+||ads124.adtelligent.com^
 ||ads13-normal-hl.zijieapi.com^
 ||ads13-normal-lf.zijieapi.com^
 ||ads13-normal-lq.zijieapi.com^
@@ -6656,6 +6659,7 @@
 ||adv2.expres.ua^
 ||adv2.rcspubblicita.it^
 ||adv3.clickadu.net^
+||adv6.grupopreferente.com^
 ||advack.net^
 ||advaction.ru^
 ||advally-baseballamerica-tagan.adlightning.com^
@@ -6926,7 +6930,6 @@
 ||adverum.lt^
 ||advg.agency^
 ||advgalaxy.com^
-||advgame.org^
 ||adviad.com^
 ||adviap.goforandroid.com^
 ||advice-ads-cdn.vice.com^
@@ -8652,6 +8655,7 @@
 ||api.calltrackingmetrics.com^
 ||api.campaigns.notino.com^
 ||api.caroda.io^
+||api.cartbooster.io^
 ||api.cartsee.cartx.cloud^
 ||api.cashback.co.uk^
 ||api.cazamba.com^
@@ -8861,6 +8865,7 @@
 ||api.img-static.tech^
 ||api.immomo.com^
 ||api.impactradius.com^
+||api.impressions.vupulse.com^
 ||api.inboxdollars.com^
 ||api.indexexchange.com^
 ||api.indicative.com^
@@ -9010,6 +9015,7 @@
 ||api.mu9.com^
 ||api.mumuglobal.com^
 ||api.mutinyhq.io^
+||api.mw-ads.com^
 ||api.mxvietnam.com^
 ||api.myads.telkomsel.com^
 ||api.myadsget.com^
@@ -14180,6 +14186,7 @@
 ||cyberprotection.pro^
 ||cyberquoll.pro^
 ||cyberserval.pro^
+||cybertronads.com^
 ||cyberweasel.pro^
 ||cyborricon.pro^
 ||cycadprove.pro^
@@ -16131,6 +16138,7 @@
 ||ecollector-advancelocal.sophi.io^
 ||ecom-app.rakutenadvertising.io^
 ||ecomadserver.com^
+||ecommerce-events.adscale.com^
 ||economicara.pro^
 ||econosopru.pro^
 ||ecoutrimpr.pro^
@@ -19990,6 +19998,7 @@
 ||img.alimama.cn^
 ||img.amp.ad.sina.com.cn^
 ||img.blogads.com^
+||img.flipp-ads.com^
 ||img.jizzads.com^
 ||img.layer-ads.de^
 ||img.ll.impact-ad.jp^
@@ -20001,6 +20010,7 @@
 ||img02.ad-tech.ru^
 ||img1.360buyimg.com^
 ||img1.mini.cache.wps.cn^
+||img1.tronads.io^
 ||img2.ad.agrantsem.com^
 ||img3.ad.agrantsem.com^
 ||imgad.thepaper.cn^
@@ -21652,6 +21662,7 @@
 ||kryptplagi.pro^
 ||kstj.baidu.com^
 ||kt88.pro^
+||ktk7k-1eakg.ads.tremorhub.com^
 ||ktokto.mobi^
 ||ktqtyggmqgug.pro^
 ||ku11.pro^
@@ -26226,6 +26237,7 @@
 ||pittabrule.pro^
 ||pittadisap.pro^
 ||pittodisme.pro^
+||piwik.advantic.de^
 ||piwik.ero-advertising.com^
 ||piwik.unoadsrv.com^
 ||pix.ahs.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -30584,6 +30596,7 @@
 ||seguivolut.pro^
 ||sehejii1.pro^
 ||seismfullo.pro^
+||sej3y5.skadsdkless.appsflyersdk.com^
 ||sejs.moatads.com^
 ||sejujeo9.pro^
 ||seks-partner.com^
@@ -32482,6 +32495,7 @@
 ||static-ssl.mediav.com^
 ||static.4chan-ads.org^
 ||static.a-ads.com^
+||static.ad-adserver.com^
 ||static.ad-lancers.jp^
 ||static.ad-maven.com^
 ||static.ad-tech.ru^
@@ -34744,6 +34758,7 @@
 ||trifosuici.pro^
 ||triggdival.pro^
 ||trincbever.pro^
+||trinidadexpress-tto-ads.sitenm.com^
 ||trinielixa.pro^
 ||trinoscier.pro^
 ||trinuimper.pro^
@@ -35727,6 +35742,7 @@
 ||uuidapi.yunos.com^
 ||uusee.adsame.com^
 ||uvnbrvbmsvtg.pro^
+||uw2-n.adv.lijit.com^
 ||uwxcwa.pro^
 ||ux13.juicyads.com^
 ||uxip-res.meizu.com^
@@ -36078,6 +36094,7 @@
 ||vfw-us.amazon-adsystem.com^
 ||vfw.amazon-adsystem.com^
 ||vfw.prod.skywave.jetstream.advertising.a2z.com^
+||vfwm-us.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfwm.prod.skywave.jetstream.advertising.a2z.com^
 ||vfws.amazon-adsystem.com^
@@ -37320,6 +37337,7 @@
 ||wittywombats.pro^
 ||wittywonderscape.pro^
 ||wixlabs-adsense-v3.uc.r.appspot.com^
+||wjj3n-h193w.ads.tremorhub.com^
 ||wjj3n-vjpmh.ads.tremorhub.com^
 ||wjj3n-yx4rt.ads.tremorhub.com^
 ||wks.ero-advertising.com^
@@ -57633,6 +57651,7 @@
 ||www.vryndolar.pro^
 ||www.vsiogladko.pro^
 ||www.vtqvkf.pro^
+||www.vtyfzokadxi.com^
 ||www.vubogoy6.pro^
 ||www.vulcarabbo.pro^
 ||www.vulgasorbe.pro^
@@ -58460,6 +58479,7 @@
 ||www13.smartadserver.com^
 ||www14.smartadserver.com^
 ||www15.smartadserver.com^
+||www17.smartadserver.com^
 ||www18.smartadserver.com^
 ||www2.ad-server.online^
 ||www2.adserverpub.com^
